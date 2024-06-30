@@ -1,5 +1,6 @@
 # Automation-Mikrotik-
 Automation aimed at managing networks on Mikrotik Routerboard
+in MikroTik Scripting Language!!!
 
 #Verifica e avisa via log quando a MikroTik estiver com uso maior que 80%:
 :local cpuUsage [/system resource get cpu-load]
